@@ -13,6 +13,6 @@ type = ["posts","post"]
   name = "Sammi Aldhi Yanto"
 +++
 
-```
+```go
 fmt.Println("Hello World")
 ```
