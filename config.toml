@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "_In ❤ with Go"
 
   # Set a background for the homepage
-  backgroundImage = "38122.jpg"
+  # backgroundImage = "38122.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -80,7 +80,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
@@ -110,14 +110,14 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = false
+    trademark = true
     rss = false
-    copyright = true
+    copyright = false
     author = false
 
     topText = []
     bottomText = [
-      ""
+      "Sammi Aldhi Yanto"
     ]
 
   # Colors for favicons
@@ -146,8 +146,6 @@ disableHugoGeneratorInject = false
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  [params.commento]
-    url = ""
 
   # Uncomment this if you want a portrait on your start page
   #
