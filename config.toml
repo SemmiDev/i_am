@@ -185,9 +185,9 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/sammidev_?s=09"
 
-  [[params.social]]
-    name = "medium"
-    url  = "https://medium.com/@sammidev4"
+ #  [[params.social]]
+ #   name = "medium"
+ #   url  = "https://medium.com/@sammidev4"
 
 [menu]
   [[menu.main]]
