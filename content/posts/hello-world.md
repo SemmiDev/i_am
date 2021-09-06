@@ -1,6 +1,6 @@
 +++
-categories = ["Go","Hello-World"]
-date = "2021-09-05"
+categories = ["Go"]
+date = "2021-09-07"
 description = ""
 featured = ""
 featuredalt = ""
@@ -13,6 +13,13 @@ type = ["posts","post"]
   name = "Sammi Aldhi Yanto"
 +++
 
+
 ```go
-fmt.Println("Hello World")
+package main
+
+import "fmt"
+
+func main() {
+  fmt.Println("Hello World")
+}
 ```
