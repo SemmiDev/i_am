@@ -145,7 +145,8 @@ disableHugoGeneratorInject = false
   # An internet that is focused on interesting discussions, not ads. 
   # A better internet.
   # Uncomment this to enable Commento.
-  #
+  [params.commento]
+    url = ""
 
   # Uncomment this if you want a portrait on your start page
   #
