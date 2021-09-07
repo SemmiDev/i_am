@@ -7,7 +7,7 @@ linktitle: Tugas 1 Algoritma
 type:
 - post
 - posts
-title: ASD ☕ Tugas 1 Algoritma
+title: ASD ☕ Tugas 1 - Algoritma
 weight: 10
 series:
 - Java
@@ -39,10 +39,10 @@ categories:
 
 ## Solution
     Pseudocode
-{{< image src="/assets/1-tugas-1-asd.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/assets/1-tugas-1-asd.png" alt="1 tugas 1 asd" position="center" style="border-radius: 8px;" >}}
 
     Program Java
-{{< image src="/assets/2-tugas-1-asd.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/assets/2-tugas-1-asd.png" alt="2 tugas 1 asd" position="center" style="border-radius: 8px;" >}}
 
     Output
-{{< image src="/assets/3-tugas-1-asd.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/assets/3-tugas-1-asd.png" alt="3 tugas 1 asd" position="center" style="border-radius: 8px;" >}}
