@@ -1,35 +1,32 @@
-+++
-categories = [
-  "Java",
-  "Array",
-  "Algoritma",
-  "Struktur Data",
-  "ASD",
-]
-tags = [
-    "java",
-    "array",
-    "asd",
-]
-date = "2021-09-07"
-description = "Quiz 1 - Struktur Data Array"
-featured = ""
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
-slug = "Hello World"
-title = "ASD | Quiz 1 - Struktur Data Array"
-type = ["posts","post"]
-series = ["ASD QUIZ"]
-[ author ]
-  name = "Sammi Aldhi Yanto"
-+++
+---
+author:
+  name: "Sammi Aldhi Yanto"
+description: Semester 3 📜 Quiz 1 - Struktur Data Array
+date: 2021-09-07
+linktitle: Quiz 1 - Struktur Data Array 
+type:
+- post
+- posts
+title: ASD ☕ Quiz 1 Struktur Data Array
+weight: 10
+series:
+- Java
+- ASD
+tags:
+- Java
+categories:
+- Java
+- Assignments
+---
 
 ## Soal
  1. Desainlah kode java untuk operasi penghapusan data.
  2. Kode yang di submit dalam format txt.
 
 ## Penyelesaian
+
+    Quiz-1.txt
+
 ```java
 import java.util.stream.IntStream;
 
