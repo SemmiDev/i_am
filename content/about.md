@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact","me"]
   name = "Sammi Aldhi Yanto"
 +++
 
-{{< image src="/me/sam.png" alt="me" position="left" style="border-radius: 20px 45px 20px 45px; width: 200px" >}}
+{{< image src="/me/sam.png" alt="me" position="center" style="border-radius: 20px 45px 20px 45px; width: 200px" >}}
 
 **Hello ✌** 
 
