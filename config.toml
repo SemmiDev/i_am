@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   # 
   description = "hello"
-  keywords = "sammi,dev"
+  keywords = "sammi,dev,sammidev"
   images = [""]
 
   # Home subtitle of the index page.
