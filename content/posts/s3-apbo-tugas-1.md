@@ -24,19 +24,19 @@ categories:
 
 ## Solution
 
-{{< image src="/assets/1-tugas-1-apbo.png" alt="1 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/1-tugas-1-apbo.png" alt="1 tugas 1 apbo" position="center" style="border-radius: 25px 25px 0px 0px;" >}}
 
 
-{{< image src="/assets/2-tugas-1-apbo.png" alt="2 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/2-tugas-1-apbo.png" alt="2 tugas 1 apbo" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 
 
-{{< image src="/assets/3-tugas-1-apbo.png" alt="3 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/3-tugas-1-apbo.png" alt="3 tugas 1 apbo" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 
 
-{{< image src="/assets/4-tugas-1-apbo.png" alt="4 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/4-tugas-1-apbo.png" alt="4 tugas 1 apbo" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 
 
-{{< image src="/assets/5-tugas-1-apbo.png" alt="5 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/5-tugas-1-apbo.png" alt="5 tugas 1 apbo" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 
 
-{{< image src="/assets/6-tugas-1-apbo.png" alt="6 tugas 1 apbo" position="center" style="border-radius: 2px;" >}}
+{{< image src="/assets/6-tugas-1-apbo.png" alt="6 tugas 1 apbo" position="center" style="border-radius: 0px 0px 20px 20px;" >}}
