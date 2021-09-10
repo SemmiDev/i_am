@@ -20,7 +20,7 @@ categories:
 ---
 
 ## Problem
-    Tentukan Sebuah Objek ( gunakan Gambar). Identifikasi objek itu dibangun oleh Objek apa saja. Sebutkan atribut dari objek tersebut. Sebutkan Behavior & bahavior dalam Paradigma OO
+**Tentukan Sebuah Objek ( gunakan Gambar). Identifikasi objek itu dibangun oleh Objek apa saja. Sebutkan atribut dari objek tersebut. Sebutkan Behavior & bahavior dalam Paradigma OO**
 
 ## Solution
 
@@ -39,4 +39,4 @@ categories:
 {{< image src="/assets/5-tugas-1-apbo.png" alt="5 tugas 1 apbo" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 
 
-{{< image src="/assets/6-tugas-1-apbo.png" alt="6 tugas 1 apbo" position="center" style="border-radius: 0px 0px 20px 20px;" >}}
+{{< image src="/assets/6-tugas-1-apbo.png" alt="6 tugas 1 apbo" position="center" style="border-radius: 0px 0px 25px 25px;" >}}
