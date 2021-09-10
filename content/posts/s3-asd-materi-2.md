@@ -48,7 +48,7 @@ new integer[n+1]
 A <- new integer[5]
 ```
 - Representasi Array di memory komputer
-{{< image src="/assets/arr1.png" alt="array" position="center" style="border-radius: 10px;" >}}
+{{< image src="/assets/arr1.png" alt="array" position="center" style="border-radius: 10px 10px 10px 10px;" >}}
 
 - Representasi Array 1D
 {{< image src="/assets/arr2.png" alt="array" position="center" style="border-radius: 10px;" >}}
