@@ -41,10 +41,15 @@ body {
 <body bgcolor="#E6E6FA" style="font-family: Ink Free; color: #333333">
   <center><font size="9">Biodata</font></center>
   <br><br>
+  
+  <div style="padding-left: auto;">
+    <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="100px" height="100px" style="border-radius: 50%;">
+  </div>
+  <br>
+
   <font size="5">Assalamu’alaikum Warahmatullahi Wabarakatuh</font>
-  <br><br>  
+  <br>
   <p>
-    <hr width="20px" align="left" color="#6B6B6B"> 
     <font size="4" face="MV Boli"> 
       Kenaliin 😊 <br>
       Namaku <b>Sammi Aldhi Yanto</b><br>
@@ -54,10 +59,6 @@ body {
       Aku Berasal dari <b>Sumatera Barat</b><br>
       Sebelumnya aku bersekolah di 🏫 <b>SMAN 1 Talamau</b> <br>
       Oia aku juga punya personal blog, bisa dilihat <a href="https://sammidev.netlify.app/" style="text-decoration: none;">disini</a>
-      <br><br>
-      Ini fotoku 😊
-      <div class="card">
-      <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="200px" height="200px"> 
       <br><br>
     </font> 
   </p>
@@ -99,6 +100,8 @@ body {
       Wassalamu’alaikum Warahmatullahi Wabarakatuh
     </font>   
   </p>
+
+  <marquee behavior="alternate">Terima Kasih</marquee> <br>
 </body>
 </html>
 ```
