@@ -19,7 +19,7 @@ categories:
 
 ## Screnshoot
 
-{{< image src="/assets/papsi/papsi-1.png" alt="tugas papsi 1" position="center" style="border-radius: 20px 20px 20px 20px;" >}}
+{{< image src="/assets/papsi/papsi-1.png" alt="tugas papsi 1" position="center" style="border-radius: 50px 50px 50px 50px;" >}}
 
 ## Code
 ```html
@@ -30,22 +30,33 @@ categories:
   <title>Tugas HTML Dasar</title>
 
 <style type="text/css">
-body {
-  margin-top: 20px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+.content {
+  margin-top: 10px;
+    margin-right:  100px;
+    margin-left: 20%;
 }
 </style>
+
 </head>
 <body bgcolor="#E6E6FA" style="font-family: Ink Free; color: #333333">
-  <center><font size="9">Biodata</font></center>
-  <br><br>
   
-  <div style="padding-left: auto;">
-    <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="100px" height="100px" style="border-radius: 50%;">
+  <div align="center" style="margin-top: 20px;">
+    <font size="10">Biodata</font>
   </div>
-  <br>
+  <br><br>
+
+  <div class="content">
+    
+  <div style="padding-left: auto; margin-left: 2px;">
+    <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="120px" height="120px" style="border-radius: 50%;">
+  <pre>
+<font face="Ink Free">Sammi Aldhi Yanto</font>
+<font face="Ink Free">11 September 2021</font>
+<font face="Ink Free" style="font-weight: bold;">Padang</font>
+  </pre>
+  </div>
+  <hr width="20px" align="left">
+  <br><br>
 
   <font size="5">Assalamu’alaikum Warahmatullahi Wabarakatuh</font>
   <br>
@@ -66,7 +77,7 @@ body {
     <hr width="20px" align="left" color="#6B6B6B"> 
     <font size="4" face="MV Boli">
       Anyway, alasan ku milih SI ini karena aku suka ngoding & suka explore teknologi yang lagi hype.<br>
-      Sejak SMA aku sudah nyoba berbagai macam bahasa pemrograman, kayak <b>C, C++, Java, Python, Dart, JS, PHP</b> dll..<br>
+      Sejak SMA aku udah nyoba berbagai macam bahasa pemrograman, kayak <b>C, C++, Java, Python, Dart, JS, PHP</b> dll.<br>
       Aku kurang suka bermain-main dengan client side / front end lah bahasa gaul nya, aku lebih suka main-main di sisi backend.<br>
       Oia, Sekarang aku lagi expore bahasa pemrograman <b>Go</b>, bikinan si <b>Google</b>. Aku jatuh cinta pada bahasa pemrograman Go ini yg  menggantikan bahasa <b>Kotlin</b> sebagai bahasa pemrograman favorit ku sebelumnya. <br><br> 
       Ini beberapa alasan kenapa aku suka bahasa pemrograman <b>Go</b>
@@ -88,9 +99,9 @@ body {
       Biasanya client-ku kebanyakan dari univ luar, seperti <b>UI</b>,
       <b>ITB</b>, <b>Gunadarma</b>, <b>Telkom</b> & <b>Maranatha</b>. <br>
       Variasi tugas mereka juga bermacam-macam, ada yang minta bikinin tugas <b>algoritma & struktur data</b>, bikin <b>Web API</b> dll. <br>
-      Bahasa pemrograman yang mereka minta juga bervariasi, tapi mayoritas-nya bisa dilihat pada gambar dibawah <br><br>
-      <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/temp.png" width="300px" height="150px"> 
-      <br>
+      Bahasa pemrograman yang mereka minta juga bervariasi, lengkapnya bisa dilihat pada gambar dibawah <br><br>
+      <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/temp.png" width="400px" height="200px" style="border-radius: 20px;">
+      <br><br>
       Oia, aku juga selalu upload <b>kode</b>-nya di <b>repo github</b>, bisa dilihat <a href="https://github.com/SemmiDev/Niage" style="text-decoration: none;">disini</a>.<br>
 
       Mungkin itu saja sedikit tentang diriku 😊
@@ -102,6 +113,12 @@ body {
   </p>
 
   <marquee behavior="alternate">Terima Kasih</marquee> <br>
+
+  </div>
+  <br><br>
+  <div align="center" style="margin-bottom: 50px;">
+    <font face="Candara">Copyright © </font> 2021
+  </div>
 </body>
-</html>
+</html> 
 ```
