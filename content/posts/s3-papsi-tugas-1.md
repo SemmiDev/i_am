@@ -19,7 +19,7 @@ categories:
 
 ## Screnshoot
 
-{{< image src="/assets/papsi/papsi-1.png" alt="tugas papsi 1" position="center" style="border-radius: 50px 50px 50px 50px;" >}}
+{{< image src="/assets/papsi/papsi-1.png" alt="tugas papsi 1" position="center" style="border-radius: 20px 20px 20px 20px;" >}}
 
 ## Code
 ```html
@@ -29,7 +29,7 @@ categories:
   <meta charset="utf-8">
   <title>Tugas HTML Dasar</title>
 
-<style type="text/css">
+<style>
 .content {
   margin-top: 10px;
     margin-right:  100px;
@@ -40,15 +40,14 @@ categories:
 </head>
 <body bgcolor="#E6E6FA" style="font-family: Ink Free; color: #333333">
   
-  <div align="center" style="margin-top: 20px;">
-    <font size="10">Biodata</font>
+  <div align="center" style="margin-top: 20px; margin-bottom: 80px;">
+    <font size="10">About Me</font>
   </div>
-  <br><br>
 
   <div class="content">
     
   <div style="padding-left: auto; margin-left: 2px;">
-    <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="120px" height="120px" style="border-radius: 50%;">
+    <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/sam.png" width="120px" height="120px" style="border-radius: 50%; box-shadow: 0px 0px 5px 5px #EEE0E5;">
   <pre>
 <font face="Ink Free">Sammi Aldhi Yanto</font>
 <font face="Ink Free">11 September 2021</font>
@@ -58,7 +57,7 @@ categories:
   <hr width="20px" align="left">
   <br><br>
 
-  <font size="5">Assalamu’alaikum Warahmatullahi Wabarakatuh</font>
+  <font size="4">Assalamu’alaikum Warahmatullahi Wabarakatuh</font>
   <br>
   <p>
     <font size="4" face="MV Boli"> 
@@ -77,8 +76,8 @@ categories:
     <hr width="20px" align="left" color="#6B6B6B"> 
     <font size="4" face="MV Boli">
       Anyway, alasan ku milih SI ini karena aku suka ngoding & suka explore teknologi yang lagi hype.<br>
-      Sejak SMA aku udah nyoba berbagai macam bahasa pemrograman, kayak <b>C, C++, Java, Python, Dart, JS, PHP</b> dll.<br>
-      Aku kurang suka bermain-main dengan client side / front end lah bahasa gaul nya, aku lebih suka main-main di sisi backend.<br>
+      Sejak SMA aku udah mulai nyoba berbagai macam bahasa pemrograman, seperti <b>C, C++, Java, Python, Dart, JS, PHP</b> dll.<br>
+      Aku kurang suka main dengan client side / Front End lah bahasa kekinian nya, aku lebih suka main/develop di sisi Backend.<br>
       Oia, Sekarang aku lagi expore bahasa pemrograman <b>Go</b>, bikinan si <b>Google</b>. Aku jatuh cinta pada bahasa pemrograman Go ini yg  menggantikan bahasa <b>Kotlin</b> sebagai bahasa pemrograman favorit ku sebelumnya. <br><br> 
       Ini beberapa alasan kenapa aku suka bahasa pemrograman <b>Go</b>
       <ol>
@@ -98,26 +97,27 @@ categories:
       Disela-sela kesibukan kuliah, biasanya aku open <b>jasa tugas koding</b>. Detailsnya bisa dilihat <a href="https://sammidev.netlify.app/service/" style="text-decoration: none;">disini</a>. <br>
       Biasanya client-ku kebanyakan dari univ luar, seperti <b>UI</b>,
       <b>ITB</b>, <b>Gunadarma</b>, <b>Telkom</b> & <b>Maranatha</b>. <br>
-      Variasi tugas mereka juga bermacam-macam, ada yang minta bikinin tugas <b>algoritma & struktur data</b>, bikin <b>Web API</b> dll. <br>
-      Bahasa pemrograman yang mereka minta juga bervariasi, lengkapnya bisa dilihat pada gambar dibawah <br><br>
+      Variasi tugas mereka juga bermacam-macam, ada yang minta bikinin tugas <b>algoritma & struktur data</b>, <b>live coding test</b>, <b>Web API</b> dll. <br>
+      Bahasa pemrograman yang mereka request untuk <i>solve the problem</i> juga bervariasi, lengkapnya bisa dilihat pada gambar dibawah <br><br>
       <img src="https://raw.githubusercontent.com/SemmiDev/Niage/master/temp.png" width="400px" height="200px" style="border-radius: 20px;">
       <br><br>
-      Oia, aku juga selalu upload <b>kode</b>-nya di <b>repo github</b>, bisa dilihat <a href="https://github.com/SemmiDev/Niage" style="text-decoration: none;">disini</a>.<br>
+      Oia, aku juga selalu upload <b>solution code</b> nya di <b>repo github</b> ku, bisa dilihat <a href="https://github.com/SemmiDev/Niage" style="text-decoration: none;">disini</a>.<br>
 
-      Mungkin itu saja sedikit tentang diriku 😊
+      Mungkin itu saja sedikit tentangku ya 😊
+      <br>
+      <marquee behavior="alternate">Terima Kasih</marquee> <br>
       <br><br>
-
       <hr width="20px" align="left" color="#6B6B6B">
       Wassalamu’alaikum Warahmatullahi Wabarakatuh
     </font>   
   </p>
 
-  <marquee behavior="alternate">Terima Kasih</marquee> <br>
+
 
   </div>
   <br><br>
-  <div align="center" style="margin-bottom: 50px;">
-    <font face="Candara">Copyright © </font> 2021
+  <div align="center" style="margin-top: 100px; margin-bottom: 50px">
+    Sammi Aldhi Yanto | 2021 All Rights Reserved
   </div>
 </body>
 </html> 
