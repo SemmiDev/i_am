@@ -1,7 +1,7 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Joki Coding 1 💸 Struktur Data & Algoritma
+description: Joki Coding 1 💸 Struktur Data & Algoritma | UI
 date: 2021-09-07
 linktitle: Joki Coding 1 - Struktur Data & Algoritma - Universitas Indonesia
 type:
@@ -30,7 +30,7 @@ categories:
 
 ## Solution
 
-### Before
+### Before refactoring
 ```java
 import java.io.*;
 import java.util.*;
@@ -167,7 +167,7 @@ public class Lab1 {
 }
 ```
 
-### Refactor
+### After Refactoring
 ```java
 import java.io.*;
 import java.util.*;
