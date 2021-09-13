@@ -12,7 +12,6 @@ weight: 10
 series:
 - Statistika
 tags:
-- Java
 categories:
 - Statistika
 - Assignments
