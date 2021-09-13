@@ -7,7 +7,7 @@ linktitle: Tugas 2 Statistika
 type:
 - post
 - posts
-title: ASD 🎲 Tugas 2 - Statistika
+title: Statistika 🎲 Tugas 2
 weight: 10
 series:
 - Statistika
@@ -19,4 +19,4 @@ categories:
 ---
 
 {{< image src="/assets/stat4.png" alt="stat 4" position="center" style="border-radius: 8px 8px 0px 0px;" >}}
-{{< image src="/assets/stat5.png" alt="stat 5" position="center" style="border-radius: 0px; 0px 8px 8px" >}}
+{{< image src="/assets/stat5.png" alt="stat 5" position="center" style="border-radius: 0px 0px 8px 8px;" >}}
