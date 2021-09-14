@@ -11,7 +11,6 @@ title: Joki Coding 1 💰 Jualan
 weight: 10
 series:
 - Java
-- ASD
 - Joki
 tags:
 - Java
