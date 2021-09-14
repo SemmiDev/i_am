@@ -7,7 +7,7 @@ linktitle: Tugas 1 Statistika
 type:
 - post
 - posts
-title: ASD 🎲 Tugas 1 - Statistika
+title: Statistika 🎲 Tugas 1
 weight: 10
 series:
 - Statistika
