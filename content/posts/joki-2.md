@@ -2,7 +2,7 @@
 author:
   name: "Sammi Aldhi Yanto"
 description: Joki Coding 2 💸 Struktur Data & Algoritma | UI
-date: 2021-09-07
+date: 2021-09-14
 linktitle: Joki Coding 2 - Struktur Data & Algoritma - Universitas Indonesia
 type:
 - post
@@ -23,7 +23,7 @@ categories:
 ## Problem
 {{< image src="/assets/joki/d.png" alt="joki 2" position="center" style="border-radius: 10px 10px 0px 0px;" >}}
 {{< image src="/assets/joki/e.png" alt="joki 2" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
-{{< image src="/assets/joki/f.png" alt="joki 2 position="center" style="border-radius: 0px 0px 0px 0px;" >}}
+{{< image src="/assets/joki/f.png" alt="joki 2" position="center" style="border-radius: 0px 0px 0px 0px;" >}}
 {{< image src="/assets/joki/g.png" alt="joki 2" position="center" style="border-radius: 0px 0px 10px 10px;" >}}
 
 ### Solution
