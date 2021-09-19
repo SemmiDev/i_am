@@ -7,7 +7,7 @@ linktitle: Tugas 1 - PAPSI
 type:
 - post
 - posts
-title: PAPSI 📗 Tugas 1 - HTML Dasar
+title: PAPSI 📗 Tugas 1 - HTML Dasar Part 1
 weight: 10
 series:
 - PAPSI
