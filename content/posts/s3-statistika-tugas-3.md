@@ -27,7 +27,7 @@ categories:
 {{< image src="/assets/stat-6.png" alt="stat 4" position="center" style="border-radius: 8px 8px 0px 0px;" >}}
 {{< image src="/assets/stat-7.png" alt="stat 5" position="center" style="border-radius: 0px 0px 8px 8px;" >}}
 
-[**Download Excell**](https://sammidev.netlify.app/assets/stat-8.xlsx)
+> Download [**Excell**](https://sammidev.netlify.app/assets/stat-8.xlsx)
 
 
 ## Obecity tb 3.131
