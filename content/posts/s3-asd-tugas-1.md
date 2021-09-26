@@ -7,7 +7,7 @@ linktitle: Tugas 1 Algoritma
 type:
 - post
 - posts
-title: ASD ☕ Tugas 1 - Algoritma
+title: ASD ~ Tugas 1 Algoritma
 weight: 10
 series:
 - Java

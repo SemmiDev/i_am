@@ -1,13 +1,13 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Joki Coding 4 💸 Matrix - Gunadarma
-date: 2021-09-15
-linktitle: Joki Coding 4 - Matrix - Gunadarma
+description: Joki Coding 💸 Matrix - Universitas Gunadarma
+date: 2021-09-07
+linktitle: Joki Coding - Matrix - Universitas Gunadarma
 type:
 - post
 - posts
-title: Joki Coding 4 💰 Matrix
+title: Joki Coding ~ Matrix
 weight: 10
 series:
 - Java

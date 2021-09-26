@@ -7,7 +7,7 @@ linktitle: Algoritma - 1 - Brute Force
 type:
 - post
 - posts
-title: Algoritma - 1 - Brute Force
+title: ASD ~ Brute Force
 weight: 10
 series:
 - Java

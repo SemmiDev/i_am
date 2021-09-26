@@ -7,7 +7,7 @@ linktitle: Quiz 1 - Struktur Data Array
 type:
 - post
 - posts
-title: ASD ☕ Quiz 1 - Struktur Data Array
+title: ASD ~ Quiz 1 Struktur Data Array
 weight: 10
 series:
 - Java

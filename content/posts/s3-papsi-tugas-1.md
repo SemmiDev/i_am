@@ -1,13 +1,13 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Semester 3 📗 Tugas 1 - PAPSI
-date: 2021-09-07
+description: PAPSI Tugas 1 ~ HTML Dasar Part 1
+date: 2021-09-08
 linktitle: Tugas 1 - PAPSI
 type:
 - post
 - posts
-title: PAPSI 📗 Tugas 1 - HTML Dasar Part 1
+title: PAPSI ~ HTML Dasar Part 1
 weight: 10
 series:
 - PAPSI

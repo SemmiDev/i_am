@@ -1,13 +1,13 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Semester 3 📗 Tugas 2 - PAPSI
-date: 2021-09-17
+description: PAPSI ~ CSS Dasar
+date: 2021-09-08
 linktitle: Tugas 2 - PAPSI
 type:
 - post
 - posts
-title: PAPSI 📗 Tugas 2 - CSS Dasar
+title: PAPSI ~ CSS Dasar
 weight: 10
 series:
 - PAPSI

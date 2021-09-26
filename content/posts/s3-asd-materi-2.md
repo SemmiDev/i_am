@@ -7,7 +7,7 @@ linktitle: Materi 2 - Struktur Data Array
 type:
 - post
 - posts
-title: ASD ☕ Materi 2 - Struktur Data Array
+title: ASD ~ Materi 2 Struktur Data Array
 weight: 10
 series:
 - Java

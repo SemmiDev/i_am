@@ -2,12 +2,12 @@
 author:
   name: "Sammi Aldhi Yanto"
 description: Semester 3 📓 Tugas 1 - Analisis Pemrograman Berorientasi Objek
-date: 2021-09-07
+date: 2021-09-05
 linktitle: Tugas 1 - APBO 
 type:
 - post
 - posts
-title: APBO 📓 Tugas 1 - Objek
+title: APBO ~ Tugas 1 Objek
 weight: 10
 series:
 - APBO

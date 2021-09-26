@@ -1,13 +1,13 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Joki Coding 3 💸 Basic Programming - UNP
-date: 2021-09-15
-linktitle: Joki Coding 3 - Basic Programming - UNP
+description: Joki Coding 💸 Programming Foundation - UNP
+date: 2021-09-07
+linktitle: Joki Coding - Programming Foundation - UNP
 type:
 - post
 - posts
-title: Joki Coding 3 💰 Mhs
+title: Joki Coding ~ Mahasiswa
 weight: 10
 series:
 - C++

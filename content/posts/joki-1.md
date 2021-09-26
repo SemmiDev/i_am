@@ -1,13 +1,13 @@
 ---
 author:
   name: "Sammi Aldhi Yanto"
-description: Joki Coding 1 💸 Struktur Data & Algoritma | UI
+description: Joki Coding 💸 Struktur Data & Algoritma - Universitas Indonesia
 date: 2021-09-07
-linktitle: Joki Coding 1 - Struktur Data & Algoritma - Universitas Indonesia
+linktitle: Joki Coding - Struktur Data & Algoritma - Universitas Indonesia
 type:
 - post
 - posts
-title: Joki Coding 1 💰 Jualan
+title: Joki Coding ~ Jualan
 weight: 10
 series:
 - Java
