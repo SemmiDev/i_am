@@ -204,4 +204,4 @@ h1.bawah_sammi {
 }
 ```
 
-> DOWNLOAD [ZIP](https://sammidev.netlify.app/assets/paps/tugas-2.zip)
+> DOWNLOAD [ZIP](https://sammidev.netlify.app/assets/papsi/tugas-2.zip)
