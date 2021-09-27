@@ -20,7 +20,7 @@ categories:
 
 ## Perbedaan statistik deskriptif & inferensial
 
-**Statistik deskriptif** hanya terbatas pada menyajikan data bentuk tabel, diagram, grafik, dan besaran lain. Sedangkan **Statistik inferensial** selain mencakup **statistik deskriptif** tetapi juga mampu dipakai untuk melakukan **estimasi dan penarikan kesimpulan** terhadap populasi dari sampelnya. Untuk sampai pada penarikan kesimpulan **statistik inferensia** melalui tahap **uji hipotesis dan uji statistik**.
+**Statistik deskriptif** hanya terbatas pada menyajikan data bentuk tabel, diagram, grafik, dan besaran lain (mengorganisir, mengelola, dan meringkas data). Sedangkan **Statistika inferensial** selain mencakup **statistik deskriptif** tetapi juga mampu dipakai untuk melakukan **estimasi dan penarikan kesimpulan** terhadap populasi dari sampelnya. Untuk sampai pada penarikan kesimpulan **statistik inferensia** melalui tahap **uji hipotesis dan uji statistik** (metode membuat kesimpulan tentang populasi berdasarkan sample).
 
 ## Boxplot tb 3.13
 
