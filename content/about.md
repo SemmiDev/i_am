@@ -1,14 +1,40 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "About Me"
+date = "2021-09-10"
 aliases = ["about-us","about-hugo","contact","me"]
 [ author ]
   name = "Sammi Aldhi Yanto"
 +++
 
-{{< image src="/me/sam.png" alt="me" position="center" style="border-radius: 20px 45px 20px 45px; width: 200px" >}}
+{{< image src="/me/sam.png" alt="me" position="center" style="border-radius: 100px 100px 100px 100px; width: 200px" >}}
 
-**Hello ✌** 
+`hi folks` 
 
-I'm **Sammi Aldhi Yanto**. you can call me **Sam**, currently pursuing my bachelor's degree majoring in Computer Science from **Universitas Riau**. I'm a **Gopher**, 🤍 Golang so much, tech enthusiast, especially in Backend Web Development, Cloud Computing & Distributed System. I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me [here](https://sammidev.netlify.app/). Anyway, I'm now mandated to be an assistant lecturer for programming concept courses at the University of Riau. I created this website to share my experiences, share knowledge or just a place to express what i want to write he he he.
+i'm `Sammi Aldhi Yanto`\
+Judging from the photo above, I'm quite handsome right? 😎
 
+uh, i'm currenly `IS` student at the `Universitas Riau` ♨\
+`i 🤍 Golang` so much 😊
+
+
+anyway, i'm now mandated to be an `assistant lecturer` for programming foundation courses 😎\
+feel free to `connect` with me [here](https://sammidev.netlify.app/) 😅
+
+---
+
+`Joki Coding`\
+**I offer programming assignment service**\
+**several the programming languages we offer**
+
+- Go
+- Java
+- C
+- C++
+- Python 
+- JS 
+- Kotlin
+- Dart
+- Etc...
+
+`interested?` **Contact me via** [`WhatsApp`](https://wa.link/2gi8t7)\
+`thanks` 😊

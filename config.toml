@@ -80,7 +80,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = true
+  enableThemeToggle = false
 
   # Sharing buttons
   #
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Global language menu
   #
@@ -128,8 +128,8 @@ disableHugoGeneratorInject = false
     theme = "#1b1c1d"
 
   [params.logo]
-    logoMark     = "🇮🇩 | SAMMI"
-    logoText     = " "
+    # logoMark     = "sammm"
+    logoText     = "Sammm"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
@@ -190,14 +190,10 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
+    identifier = "About"
     name       = "About"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-  [[menu.main]]
-    identifier = "service"
-    name       = "Service"
-    url        = "service/"
