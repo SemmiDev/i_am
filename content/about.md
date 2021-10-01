@@ -14,11 +14,11 @@ i'm `Sammi Aldhi Yanto`\
 Judging from the photo above, I'm quite handsome right? 😎
 
 uh, i'm currenly `IS` student at the `Universitas Riau` ♨\
-`i 🤍 Golang` so much 😊
+`i ♥ Golang` so much 😊
 
 
 anyway, i'm now mandated to be an `assistant lecturer` for programming foundation courses 😎\
-feel free to `connect` with me [here](https://sammidev.netlify.app/) 😅
+feel free to `connect` with me [here](https://sammidev.netlify.app/)
 
 ---
 
