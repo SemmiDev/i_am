@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "_In ❤ with Go"
+  homeSubtitle = "_In ❤ with Go & Laravel"
 
   # Set a background for the homepage
   # backgroundImage = "38122.jpg"
